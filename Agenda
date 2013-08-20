@@ -1,0 +1,17 @@
+Agenda
+
+Items
+HtmlXpathSelector
+ItemLoaders
+Scrapy shell
+SitemapSpider
+CrawlSpider
+Item Pipeline
+Media Pipeline
+Being a good citizen
+  - robots.txt
+  - DOWNLOAD_DELAY
+Being a bad citizen
+  - Random useragent middleware
+  - Random proxy middleware
+  
